@@ -1,4 +1,4 @@
-# Wordle Clone
+# Clone of Wordle Clone With Extra Features
 Summary: We used the wordle clone originally made by lohchness and made some edits. Wordle is a word guessing game that traditionally relies on colors. By adding a keyboard and a "screen reader", we tried to make this game more accessible and make it more playable without having to distinguish between colors.
 
 ## Original Wordle Game
