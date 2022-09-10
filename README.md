@@ -23,5 +23,7 @@ The NYT Wordle and Pygame aren't exactly screen reader friendly. On the NYT word
 https://github.com/lohchness/wordleclone for the original wordle clone
 https://www.nytimes.com/games/wordle/index.html 
 https://evolution.voxeo.com/library/audio/prompts/alphabet/index.jsp for reading out the letters
+
 Google translate for reading the various descriptions in the game
+
 ShellHacks 2022 - why we thought of this project :)
