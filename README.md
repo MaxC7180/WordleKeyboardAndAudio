@@ -3,10 +3,12 @@ Summary: We used the wordle clone originally made by lohchness and made some edi
 
 ## Original Wordle Game
 Link: https://www.nytimes.com/games/wordle/index.html 
+
 Players are given six tries to guess a five letter word. After submitting a guess, letters in the word can be highlighted green, yellow, or gray. Green letters are in the correct position. Yellow letters are in the word to be guessed, but the wrong position. Gray letters are not in the word.
 
 ## Original Wordle Clone
 Link: https://github.com/lohchness/wordleclone
+
 This was a fully functioning wordle game and letters were highlighted correctly. Players could play multiple games in a row. However, there was no keyboard to serve as a catalog of which letters had been guessed correctly, misplaced, or incorrectly. 
 
 ## Wordle With Keyboard
