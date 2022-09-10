@@ -20,8 +20,8 @@ Furthermore, after submission of a guess, if the guess is invalid (the guess is 
 The NYT Wordle and Pygame aren't exactly screen reader friendly. On the NYT wordle (as of 9/10/22) buttons on the keyboard don't give indications of the status of the letter (correct, incorrect, etc). Python actually has some screen reader libraries but I didn't have time to learn them within the time period of this project, so I manually put in the audio descriptions using google translate. Definitely want to look into that in the future, as this game is kind of birttle given all the manual work I did.
 
 ## Credits
-https://github.com/lohchness/wordleclone for the original wordle clone
+https://github.com/lohchness/wordleclone for the original wordle clone 
 https://www.nytimes.com/games/wordle/index.html 
-https://evolution.voxeo.com/library/audio/prompts/alphabet/index.jsp for reading out the letters
-Google translate for reading the various descriptions in the game
+https://evolution.voxeo.com/library/audio/prompts/alphabet/index.jsp for reading out the letters 
+Google translate for reading the various descriptions in the game 
 ShellHacks 2022 - why we thought of this project :)
